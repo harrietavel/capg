@@ -3,4 +3,4 @@ git add .
 git status
 
 git rm --cached filename
-git commit -m "comment"
+git commit -m "comment"this is from branch1
