@@ -3,7 +3,11 @@ git add .
 git status
 
 git rm --cached filename
+<<<<<<< HEAD
 git commit -m "comment"git log
 git branch
 git checkout
 git push -u origin master
+=======
+git commit -m "comment"this is from branch1
+>>>>>>> branch1
